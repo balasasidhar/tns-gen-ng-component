@@ -1,0 +1,21 @@
+{
+  "name": "tns-gen-ng-component",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": {
+    "tns-gen-ng-component": "./index.js"
+  },
+  "keywords": [
+    "Native",
+    "Script",
+    "Angular",
+    "Components",
+    "Generator"
+  ],
+  "author": "Sasidhar <sasidhar.678@gmail.com>",
+  "license": "MIT"
+}
