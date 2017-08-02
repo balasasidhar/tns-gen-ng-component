@@ -7,8 +7,8 @@ Telerik Native Script (Angular2) : Generate Angular components
 `npm i tns-gen-ng-component -g`
 
 <h5>Generate Components by using following syntax</h5>
-<p>tns-gen-ng-component <component-name> </p>
-<p>Example</p>
+<p>$tns-gen-ng-component <em>component-name</em> </p>
+<p>Example:</p>
 
 `tns-gen-ng-component home`
 

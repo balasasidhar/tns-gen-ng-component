@@ -1,6 +1,6 @@
 {
   "name": "tns-gen-ng-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,6 @@
     "Generator"
   ],
   "author": "Sasidhar <sasidhar.678@gmail.com>",
+  "repository": "https://github.com/sasidhar678/tns-gen-ng-component",
   "license": "MIT"
 }
